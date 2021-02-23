@@ -1,0 +1,9 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+#customText{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
